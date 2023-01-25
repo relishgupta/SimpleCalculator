@@ -88,6 +88,6 @@ body{
 
 @media screen and (max-width:1000px) and (min-width:300px) {
     .container{
-        margin-left: 7rem;
+        margin-left: 4rem;
     }
 }
