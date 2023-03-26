@@ -6,7 +6,6 @@ Array.from(btn).forEach((button)=>{
         if(exp=='='){
             screenText=eval(screenText);
             document.querySelector("input").value=screenText;
-
         }
         else if(exp=='C'){
             screenText="";
